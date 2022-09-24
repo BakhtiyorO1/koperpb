@@ -1,0 +1,42 @@
+.ga {
+    background-color: darkblue;
+    display: flex;
+    color: white;
+    padding: 2px;
+}
+.a {
+    display: flex;
+    padding: 5px;
+    width: 600px;
+
+}
+.b {
+    display: flex;
+    padding: 5px;
+    margin-left: 600px;
+}
+.p {
+    background-color: darkblue;
+    color: white;
+    border: 0px;
+}
+select {
+    background-color: darkblue;
+    color: white;
+    border: 0px;
+}
+img {
+    width: 250px;
+}
+.pp {
+    display: flex;
+    padding: 5px;
+    margin-left: 200px;
+}
+.qw {
+    margin-left: 250px;
+}
+.gaa {
+    color: white;
+    height: 300px;
+}
